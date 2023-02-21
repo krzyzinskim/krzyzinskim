@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 👨🏻‍💻 I'm a member of [MI²DataLab](https://www.mi2.ai), where I'm working on explainable artificial intelligence and applications of machine learning in healthcare.
+- 👨🏻‍💻 I'm a member of [MI².AI](https://www.mi2.ai), where I'm working on explainable artificial intelligence and applications of machine learning in healthcare.
 
 - 👀 I'm interested in responsible machine learning but also in data visualization, statistics, functional data analysis, and climate science.
 
@@ -11,11 +11,10 @@
   - [artemis](https://github.com/pyartemis/artemis) - the Python package with explanation methods for extraction of feature interactions from predictive models 
   - check my papers on [Scholar](https://scholar.google.co.uk/citations?user=i_r7EUgAAAAJ&hl=pl)
 
-- 👨🏻‍🎓 I'm studying [Data Science at Warsaw University of Technology](https://ww2.mini.pw.edu.pl/studia/inzynierskie-i-licencjackie/inzynieria-i-analiza-danych/) and currently preparing my engineering thesis about explaining feature interaction effects in machine learning models. 
+- 👨🏻‍🎓 I'm studying [Data Science at Warsaw University of Technology](https://ww4.mini.pw.edu.pl/graduate-studies/data-science-m-sc/). 
 
 - 📫 Reach me: 
   - on [LinkedIn](https://www.linkedin.com/in/krzyzinskim/)
   - or by email: mateusz.krzyzinski.stud@pw.edu.pl
 
 - Fun fact: I love cats 🐈
-
